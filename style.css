@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+b {
+    color: blueviolet ;
+    
+    text-decoration: none ;
+}
+. algo {
+    position: absolute;
+    top: 0px;
+    color: blueviolet ;
+ 
+}
+.WW2 {
+ color: blueviolet ; 
+   
+}
+h1 {
+ color: blueviolet ;
+      
+}
+.ccch {
+width:50px ; 
+height:20px ;
+}
+.ccch:hover {
+width:500px ; 
+height:200px ;
+transition: 1s width all;}
+.link-text {
+    color: blueviolet;
+}
+.link-text:visited  {
+    color: white;
+}
